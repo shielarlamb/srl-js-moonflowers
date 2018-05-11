@@ -1,0 +1,86 @@
+/* type selectors */
+article, aside, figure, figcaption, footer, header, nav, section {
+    display: block;
+}
+
+body {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    background-color: #FFF5E1;
+}
+
+header {
+    width: 100%;
+    padding: 10px 15px;
+    background-image: url("../images/moonflower.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #80B7B3;
+}
+
+h1, h2, h3 {
+    font-family: Papyrus, fantasy, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    color: #FFDB97;
+    text-shadow: 2px 2px 3px #000000;
+}
+
+aside {
+	margin: 50px 20px 10px 0;
+	width: 175px;
+	float: right;
+}
+aside {
+    color: #000000;
+    padding: 10px;
+}
+
+section {
+	padding: 15px 25px;
+	
+}
+
+.menu-item {
+    font-size: 120%;
+	  ßcursor: pointer;
+}
+
+img {
+    display: block;
+}
+
+ul {
+	padding-left: 45px;
+	
+	
+}
+
+li {
+	padding-bottom: .25em;
+	
+	
+}
+
+img  {
+	font-family: sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	float: right;
+	padding-top: 20px;
+	width: 250px;
+    
+    line-height: 50px;
+    text-align: center;
+	
+}
+
+table {
+	border-bottom-style: double;
+	border-bottom-width: thick;
+	
+}
+
+
